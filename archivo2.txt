@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola soy Pablo
+=======
+hola que tal
+>>>>>>> 439da0a6f5816eb447cf2ef3ae8d81a39f99ff72
